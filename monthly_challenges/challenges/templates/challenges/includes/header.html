@@ -1,0 +1,15 @@
+{% load static %}
+
+<header>
+    <nav>
+        <a href="{% url 'index' %}"> All Though </a>
+    </nav>
+   </header>
+   {{month_name}} 
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static 'challenges/header.css' %}">
+<link rel="stylesheet" href="{% static 'challenges/challenges.css' %}">
+<link rel="stylesheet" href="{% static 'challenges/challenge.css' %}">
+{% endblock %}
+    
