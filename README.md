@@ -12,11 +12,11 @@ This project is a basic Django application template. It includes the following f
 - **Scalable Structure:** A foundation for building larger Django applications.
 
 ## Requirements
-- Python 3.x
+- Python
 - Django 4.x (or compatible version)
 - Any additional dependencies listed in `requirements.txt`
 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/pranta123443/Basic-Django.git)>
